@@ -7,7 +7,7 @@ This Chrome extension automates connection requests on LinkedIn. This README wil
 
 ### Step 1: Download the Extension
 1. **Download the ZIP file** of the extension from the repository:
-   - [Download LinkedIn Connection Automation Extension](link-to-your-zip-file)
+   - [Download LinkedIn Connection Automation Extension](https://github.com/ManikDhiman10/linkedin-connector/blob/main/Linkedin-extension.zip)
 
 ### Step 2: Unzip the File
 1. Locate the downloaded ZIP file on your computer.
